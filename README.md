@@ -5,7 +5,9 @@ https://airou-life.jp/?p=13744#i
 ## 使い方
 ### 0. このプログラムを実行するには、C言語を実行できる環境が必要です。また、グラフを描く場合はgnuplotを使用するため、インストールが必要です。
 C言語の環境構築：https://lyncs.hateblo.jp/entry/2018/03/11/032127#%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%AA%E3%82%8B%E8%AA%AD%E8%80%85
+
 gnuplotのインストール（Windows）：http://www.yamamo10.jp/yamamoto/comp/gnuplot/inst_win/index.php
+
 gnuplotのインストール（Linux）：http://www.yamamo10.jp/yamamoto/comp/gnuplot/inst_linux/index.php
 ### 1. ターミナルで下記を実行し、リポジトリをクローンします。
 git clone https://github.com/kasaiS-2-S-2/Casino_Daremberg.git
